@@ -5,7 +5,6 @@
 - token name: Welcome Everyone
 - token symbol: WEO
 - token total supply: 10,000,000,000
-- token start time: 2023-04-01 00:00:00
 - token chain: Polygon
 - token address: 0x576f54c39cb8172c92f315464267e09bd97f960b, [view on polygonScan](https://polygonscan.com/token/0x576f54c39cb8172c92f315464267e09bd97f960b)
 
