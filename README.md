@@ -1,1 +1,3 @@
 # wiki
+
+- tokenEconomics [tokenEconomics.md]
