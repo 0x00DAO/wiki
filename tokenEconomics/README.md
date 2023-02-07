@@ -18,6 +18,13 @@
 - fund: 20% reserve for fund
 - others: 20% reserve for others
 
+| name      | percent | amount        | every year  |
+| --------- | ------- | ------------- | ----------- |
+| team      | 30%     | 3,000,000,000 | 100,000,000 |
+| community | 20%     | 2,000,000,000 | 66,666,666  |
+| fund      | 20%     | 2,000,000,000 | 66,666,666  |
+| others    | 20%     | 2,000,000,000 | 66,666,666  |
+
 ## token release plan
 
 - token release time: 2023-04-01 00:00:00
