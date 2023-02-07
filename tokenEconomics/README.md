@@ -1,15 +1,11 @@
 # token economics
 
-## token basic information
-
 - token name: Welcome Everyone
 - token symbol: WEO
 - token total supply: 10,000,000,000
 - token chain: Polygon
 - token address: 0x576f54c39cb8172c92f315464267e09bd97f960b, [view on polygonScan](https://polygonscan.com/token/0x576f54c39cb8172c92f315464267e09bd97f960b)
-
-### token usage
-
+- token decimals: 18
 - token usage: WEO is the native token of the Welcome Everyone ecosystem, and is used for all transactions in the ecosystem, including but not limited to: staking, voting, governance, and so on.
 
 ## token distribution
@@ -38,9 +34,9 @@
 - token release type: linear release
 - token release year: 30 years, 1/30 per year, 1/360 per month
 
-#### team token
+### team token
 
-distribution table
+**distribution table**
 
 amount: 3,000,000,000
 
@@ -50,7 +46,7 @@ amount: 3,000,000,000
 | development project | 30%     | 900,000,000   | 30,000,000 | 1,000,000 |
 | other               | 50%     | 1,500,000,000 | 50,000,000 | 1,666,666 |
 
-release rules
+**release rules**
 
 - development project pool
   - multiple projects can be shared the same pool, projects weight is determined by the development DAO
