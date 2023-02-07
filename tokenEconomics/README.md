@@ -18,12 +18,24 @@
 - fund: 20% reserve for fund
 - others: 20% reserve for others
 
-| name      | percent | amount        | every year  |
-| --------- | ------- | ------------- | ----------- |
-| team      | 30%     | 3,000,000,000 | 100,000,000 |
-| community | 20%     | 2,000,000,000 | 66,666,666  |
-| fund      | 20%     | 2,000,000,000 | 66,666,666  |
-| others    | 20%     | 2,000,000,000 | 66,666,666  |
+## token distribution table
+
+| name      | percent | amount        | every year  | every day |
+| --------- | ------- | ------------- | ----------- | --------- |
+| team      | 30%     | 3,000,000,000 | 100,000,000 | 3,333,333 |
+| community | 20%     | 2,000,000,000 | 66,666,666  | 2,222,222 |
+| fund      | 20%     | 2,000,000,000 | 66,666,666  | 2,222,222 |
+| others    | 20%     | 2,000,000,000 | 66,666,666  | 2,222,222 |
+
+### team token distribution table
+
+amount: 3,000,000,000
+
+| name                | percent | amount        | every year | every day |
+| ------------------- | ------- | ------------- | ---------- | --------- |
+| development DAO     | 20%     | 600,000,000   | 20,000,000 | 666,666   |
+| development project | 30%     | 900,000,000   | 30,000,000 | 1,000,000 |
+| other               | 50%     | 1,500,000,000 | 50,000,000 | 1,666,666 |
 
 ## token release plan
 
