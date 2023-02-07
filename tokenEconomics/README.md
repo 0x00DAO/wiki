@@ -36,7 +36,7 @@
 
 ### team token
 
-**distribution table**
+### team token distribution table
 
 amount: 3,000,000,000
 
@@ -46,7 +46,7 @@ amount: 3,000,000,000
 | development project | 30%     | 900,000,000   | 30,000,000 | 1,000,000 |
 | other               | 50%     | 1,500,000,000 | 50,000,000 | 1,666,666 |
 
-**release rules**
+### team token release rules
 
 - development project pool
   - multiple projects can be shared the same pool, projects weight is determined by the development DAO
