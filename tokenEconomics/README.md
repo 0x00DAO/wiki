@@ -29,10 +29,11 @@
 
 ### token release plan
 
-- token release time: 2023-04-01 00:00:00
+- token release time: 2023-02-01 00:00:00 GMT+0, timestamp: 1675209600
 - token release amount: 10,000,000,000
 - token release type: linear release
-- token release year: 30 years, 1/30 per year, 1/360 per month
+- token release during: 30 years
+- token release end time: 2053-02-01 00:00:00 GMT+0, timestamp: 2621980800
 
 ### team token
 
